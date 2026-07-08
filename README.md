@@ -1,4 +1,5 @@
-# SafeTest-secure-proctoring-exam
+# SafeTest(secure proctoring exam)
+
 Project Description 
 
 What We Did
@@ -38,3 +39,12 @@ Real-Time Scanning: Every 1.5 seconds, the AI checks the webcam video to verify 
 Automatic Enforcement: If a violation occurs, the system docks points, logs the event, and snaps a photo. If 3 strikes are hit, the test locks out and auto-submits.
 
 Teacher Review: All grades, answers, and violation snapshots are instantly synced to the database for the teacher to audit.
+
+Project Output
+
+
+<img width="1873" height="1001" alt="Screenshot 2026-05-28 153940" src="https://github.com/user-attachments/assets/f9025447-7864-4866-80a0-4a27ff1a7ebd" />
+<img width="1873" height="992" alt="Screenshot 2026-05-28 154341" src="https://github.com/user-attachments/assets/7e36c611-65b4-4e6d-b35e-bdbbdc201d32" />
+<img width="1881" height="999" alt="Screenshot 2026-05-28 154549" src="https://github.com/user-attachments/assets/41fd8256-71d2-47db-b357-2f924616fdde" />
+<img width="1888" height="1172" alt="Screenshot 2026-05-22 214014" src="https://github.com/user-attachments/assets/4f50d8e7-6417-43f7-b422-c34ca521e183" />
+
